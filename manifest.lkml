@@ -1,7 +1,6 @@
 application: easy_lkml_deploy {
   label: "Easy LookML Deployer"
   file: "easy_lkml_deploy.js"
-#  url: "http://localhost:8080/bundle.js"
   entitlements: {
     local_storage: yes
     navigation: yes
