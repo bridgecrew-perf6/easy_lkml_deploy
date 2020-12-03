@@ -1,0 +1,21 @@
+{
+    "label": "Easy LookML Deployer",
+    "category_label": "Extensions",
+    "branding": {
+      "tagline": "The APP for Looker Admins."
+    },
+    "constants": {
+      "CONNECTION_NAME": {
+        "label": "Connection Name",
+        "value_constraint": "connection"
+      },
+      "HOST_URL": {
+        "label": "Host URL",
+        "description": "Looker Instance URL (including port number)."
+      },
+      "VERSION": {
+        "label": "Version",
+        "description": "APP Version Tag"
+      }
+    }
+  }
